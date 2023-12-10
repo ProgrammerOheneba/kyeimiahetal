@@ -1,4 +1,4 @@
-# kyeimiahetal
+# Sea Ice Projection at Nunatsiavut (Labrador)
 This repository is dedicated to my MSc. Thesis/Project work. It contains all the codes and plots I created and generated throughout the course of my research.
 
 The file "Study Area.ipynb" in the Codes directory contains the script I used to illustrate and define my research's study area.
